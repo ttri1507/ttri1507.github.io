@@ -13,8 +13,8 @@ redirect_from:
 * Social Media [Facebook](https://fb.com/tristana.tran1507)，[Instagram](https://www.instagram.com/minhh.triii/), [Linkedin](https://www.linkedin.com/in/ttri150799/)
 * Tri Tran-Minh was born in Binh Thuan, Vietnam. He received his B.E. degree in Electronics and Telecommunication Engineering from Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam, in 2021. Now he is a Fresher (SWE) at Sophic Automation Vietnam (SVN), Vietnam, and a member of iTwinVisual (Research Group), Vietnam-France, in 2021. He has experience as a Research and Teaching Assistant (HCMC University of Technology and Education). He graduated with a 3.28 GPA and was valedictorian of his major. Awarded Student of 5 Merits and some HCMUTE and Faculty Scholarship (2019-2021). In Highschool, he got Bronze Medal in the Traditional Olympic Competition on April 30 (2015 - Subject: Geography) and possessed many sports medals (Volleyball, Chinese Chess, and Table Tennis).
 
-** Hobby: Volleyball, Swimming, Photography, Bike Touring, Reading Book, Chinese Chess, Table Tennis,...
-** Keywords: National Geographic, Deep Learning, Psychology, Learning Methods and Technology.
+* Hobby: Volleyball, Swimming, Photography, Bike Touring, Reading Book, Chinese Chess, Table Tennis,...
+* Keywords: National Geographic, Deep Learning, Psychology, Learning Methods and Technology.
 
 # Work
 * 02/2021 - Present: AI Application Engineer (AI Lab - Industry) at Sophic Automation Vietnam. Advisor: Assoc. Prof: Truong Ngoc Son and M.E Nguyen Hai Dang
