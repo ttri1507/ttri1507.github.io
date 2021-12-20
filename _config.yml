@@ -10,7 +10,7 @@ locale                   : "vi-VN"
 title                    : "Minh Tri"
 title_separator          : #"-"
 name                     : &name "Minh Tri (Aris)"
-description              : &description "SWE - Researcher @ Sophic Automation Vietnam @HCMC University of Technology and Education"
+description              : &description "SWE @ Sophic Automation Vietnam. Researcher @HCMC University of Technology and Education"
 url                      : https://ttri1507.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ttri1507/ttri1507.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Minh Tri (Aris)"
   avatar           : "tri.jpg"
   bio              : "SWE - Researcher @ Sophic Automation Vietnam @HCMC University of Technology and Education"
-  location         : "Ho Chi Minh City, Vietnam"
+  location         : "Ho Chi Minh City,Vietnam"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -94,18 +94,18 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://fb.com/tristana.tran1507"
   foursquare       :
   github           : "ttri1507"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/minhh.triii/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ttri150799/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/tr-n-tri-534496641"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UChkApvUJ34c1p7ccpNYHwuQ"
   wikipedia        :
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Ho_Chi_Minh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
