@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "vi-VN"
-title                    : "Tri Tran-Minh"
+title                    : "Minh Tri"
 title_separator          : #"-"
 name                     : &name "Minh Tri (Aris)"
 description              : &description "SWE - Researcher @ Sophic Automation Vietnam @HCMC University of Technology and Education"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Minh Tri (Aris)"
-  avatar           : "tri.png"
+  avatar           : "tri.jpg"
   bio              : "SWE - Researcher @ Sophic Automation Vietnam @HCMC University of Technology and Education"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
