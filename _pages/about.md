@@ -15,15 +15,16 @@ redirect_from:
 * Keywords: National Geographic, Deep Learning, Psychology, Learning Methods and Technology.
 
 # Work
-* 02/2021 - Present: AI Application Engineer (AI Lab - Industry) at Sophic Automation Vietnam. Advisor: Assoc. Prof: Truong Ngoc Son and M.E Nguyen Hai Dang
+* 02/2021 - Present: AI Application Engineer (AI Lab) at Sophic Automation Vietnam. Advisor: Assoc. Prof: Truong Ngoc Son and M.E Nguyen Hai Dang
 * 03/2021 - 06/2021: Teaching Assistant about Communication Systems and Telecommunication System at HCMC University of Technology and Education, Vietnam. Supervised: M.E Dang Phuoc Hai Trang.
 * 09/2020 - 01/2021: Teaching Assistant about C-Programming Language at HCMC University of Technology and Education, Vietnam. Supervised M.E: Nguyen-Van Phuc.
-* 07/2020 - 01/2021: Research about Deep Learning at HCMC University of Technology and Education, Vietnam. Advisor: Dr. Nguyen Manh-Hung.
+* 07/2020 - 01/2021: Research about MDeep Learning at HCMC University of Technology and Education, Vietnam. Advisor: Dr. Nguyen Manh-Hung.
 * 2/2020 - 07/2020: Teaching Assistant about Communication Systems and Telecommunication System at HCMC University of Technology and Education, Vietnam. Supervised: Ph.D Do-Duy Tan and M.E Dang Phuoc Hai Trang.
 * 2/2020 - 07/2020: Research about IoTs and Wireless Sensor Network (WSN) at HCMC University of Technology and Education, Vietnam. Advisor: Ph.D Do-Duy Tan.
 
 # Publication 
 * [First paper](https://tapchikhgdkt.hcmute.edu.vn/) D.M. Trí, N.H.K. Anh, N.C. Phúc, N.Đ.C. Tú, Trần Minh Trí, H.H. Hà, Tan DD, "Thiết kế và thi công bộ truyền nhận theo giao thức I2C", Journal of Technical Education Science (in Vietnamese), 06/2021. (accepted).
+* LH Dang, Tri Tran-Minh, Ngoc-Son Truong. "Memory Argument for Image Text Recognition", (In Review).
 
 # Research Interests 
 * Deep Learning - Artificial Intelligent
@@ -33,7 +34,7 @@ redirect_from:
 # Achievements
 * Graduated with top 1 (GPA 3.28) 
 * Awarded Student of 5 merits (HCMUTE) (2019-2021)
-* HCMUTE Scholarship (2019-2021)
+* HCMUTE + Faculty Scholarship (2019-2021)
 * Bronze Medal in the Traditional Olympic Competition April 30 (2015 - Subject: Geography)
 * Many medals in sports (City-wide and district-wide competition) (Volleyball, Table-Tennis and Chinese Chess) (2009-2016)
 
