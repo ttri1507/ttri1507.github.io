@@ -18,7 +18,7 @@ redirect_from:
 * 02/2021 - Present: AI Application Engineer (AI Lab) at Sophic Automation Vietnam. Advisor: Assoc. Prof: Truong Ngoc Son and M.E Nguyen Hai Dang
 * 03/2021 - 06/2021: Teaching Assistant about Communication Systems and Telecommunication System at HCMC University of Technology and Education, Vietnam. Supervised: M.E Dang Phuoc Hai Trang.
 * 09/2020 - 01/2021: Teaching Assistant about C-Programming Language at HCMC University of Technology and Education, Vietnam. Supervised M.E: Nguyen-Van Phuc.
-* 07/2020 - 01/2021: Research about MDeep Learning at HCMC University of Technology and Education, Vietnam. Advisor: Dr. Nguyen Manh-Hung.
+* 07/2020 - 01/2021: Research about Machine Learning and Deep Learning at HCMC University of Technology and Education, Vietnam. Advisor: Dr. Nguyen Manh-Hung.
 * 2/2020 - 07/2020: Teaching Assistant about Communication Systems and Telecommunication System at HCMC University of Technology and Education, Vietnam. Supervised: Ph.D Do-Duy Tan and M.E Dang Phuoc Hai Trang.
 * 2/2020 - 07/2020: Research about IoTs and Wireless Sensor Network (WSN) at HCMC University of Technology and Education, Vietnam. Advisor: Ph.D Do-Duy Tan.
 
