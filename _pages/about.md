@@ -23,8 +23,8 @@ redirect_from:
 * 2/2020 - 07/2020: Research about IoTs and Wireless Sensor Network (WSN) at HCMC University of Technology and Education, Vietnam. Advisor: Ph.D Do-Duy Tan.
 
 # Publication 
-* [First paper](https://tapchikhgdkt.hcmute.edu.vn/) D.M. Trí, N.H.K. Anh, N.C. Phúc, N.Đ.C. Tú, Trần Minh Trí, H.H. Hà, Tan DD, "Thiết kế và thi công bộ truyền nhận theo giao thức I2C", Journal of Technical Education Science (in Vietnamese), 06/2021. (accepted).
-* LH Dang, Tri Tran-Minh, Ngoc-Son Truong. "Memory Argument for Image Text Recognition", (In Review).
+* [First paper](https://tapchikhgdkt.hcmute.edu.vn/) D.M. Trí, N.H.K. Anh, N.C. Phúc, N.Đ.C. Tú, **Trần Minh Trí**, H.H. Hà, Tan DD, "Thiết kế và thi công bộ truyền nhận theo giao thức I2C", Journal of Technical Education Science (in Vietnamese), 06/2021. (accepted).
+* L.H Dang, **Tri Tran-Minh**, Ngoc-Son Truong. "Memory Argument for Image Text Recognition",01/2022 (In Review).
 
 # Research Interests 
 * Deep Learning - Artificial Intelligent
