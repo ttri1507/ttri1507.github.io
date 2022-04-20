@@ -11,6 +11,7 @@ redirect_from:
 
 # Profile
 * **Tri Tran-Minh** was born in Binh Thuan, Vietnam. He received his B.E. degree in **Electronics and Telecommunication Engineering** from **Ho Chi Minh City University of Technology and Education (HCMUTE)**, Vietnam, in 2021. 
+
 Now he is a Engineer (T1 - Validation) at **Marvel Technology** (**Headquarter at Santa Clara, California - United States**). He has experience as a Research and Teaching Assistant (HCMC University of Technology and Education). He graduated with a 3.28 GPA and was valedictorian of his major. Awarded Student of 5 Merits and some HCMUTE and Faculty Scholarship (2019-2021). In Highschool, he got **Bronze Medal** in **the Traditional Olympic Competition on April 30** (2015 - Subject: Geography) and possessed many sports medals (Volleyball, Chinese Chess, and Table Tennis).
 * Hobby: Volleyball, Swimming, Photography, Bike Touring, Reading Book, Chinese Chess, Table Tennis,...
 * Keywords: National Geographic, Deep Learning, Psychology, Learning Methods and Technology.
@@ -25,7 +26,7 @@ Now he is a Engineer (T1 - Validation) at **Marvel Technology** (**Headquarter a
 * 2/2020 - 07/2020: Research about IoTs and Wireless Sensor Network (WSN) at HCMC University of Technology and Education, Vietnam. Advisor: Ph.D Do-Duy Tan.
 
 # Publication 
-* [First paper](https://tapchikhgdkt.hcmute.edu.vn/) D.M. Trí, N.H.K. Anh, N.C. Phúc, N.Đ.C. Tú, **Trần Minh Trí**, H.H. Hà, Tan DD, "Thiết kế và thi công bộ truyền nhận theo giao thức I2C", Journal of Technical Education Science (in Vietnamese), 06/2021. (accepted).
+* [First paper](https://jte.hcmute.edu.vn/index.php/jte/article/view/141/116) D.M. Trí, N.H.K. Anh, N.C. Phúc, N.Đ.C. Tú, **Trần Minh Trí**, H.H. Hà, Tan DD, "Thiết kế và thi công bộ truyền nhận theo giao thức I2C", Journal of Technical Education Science (in Vietnamese), 06/2021. (accepted).
 * L.H Dang, **Tri Tran-Minh**, Ngoc-Son Truong. "Memory Argument for Image Text Recognition",01/2022 (In Review).
 
 # Research Interests 
