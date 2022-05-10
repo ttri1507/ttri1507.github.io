@@ -26,7 +26,7 @@ Now he is a Engineer (T1 - Validation) at **Marvell Technology** (**Headquarter 
 * 2/2020 - 07/2020: Research about IoTs and Wireless Sensor Network (WSN) at HCMC University of Technology and Education, Vietnam. Advisor: Ph.D Do-Duy Tan.
 
 # Publication 
-* [First paper](https://jte.hcmute.edu.vn/index.php/jte/article/view/141/116) D.M. Trí, N.H.K. Anh, N.C. Phúc, N.Đ.C. Tú, **Trần Minh Trí**, H.H. Hà, Tan DD, "Thiết kế và thi công bộ truyền nhận theo giao thức I2C", Journal of Technical Education Science (in Vietnamese), 06/2021. (accepted).
+* [First paper](https://jte.hcmute.edu.vn/index.php/jte/article/view/141/116) Dương Minh Trí, Nguyễn Hoàng Kỳ Anh, Nguyễn Chí Phúc, Nguyễn Đinh Cao Tú, **Trần Minh Trí**, Huỳnh Hoàng Hà, & Đỗ Duy Tân. (2021). Design and verification of an I2C controller. Journal of Technical Education Science, (65), 60–68. https://doi.org/10.54644/jte.65.2021.141
 * L.H Dang, **Tri Tran-Minh**, Ngoc-Son Truong. "Memory Argument for Image Text Recognition",01/2022 (In Review).
 
 # Research Interests 
